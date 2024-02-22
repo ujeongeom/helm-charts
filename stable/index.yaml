@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  backend:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-22T01:51:56.154068489Z"
+    description: A Helm chart for Kubernetes about srpingboot backend(Employee)
+    digest: defac833702aa32d7bc7b8b3b719f01bf2defabc02e88f25adad13e399fe3153
+    name: backend
+    type: application
+    urls:
+    - backend-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-22T01:51:56.15325632Z"
